@@ -1,4 +1,4 @@
-*So We participated in this challenge in June,2024. This hackathon Based on the Machine Learning.
+*We participated in this challenge in June,2024. This hackathon Based on the Machine Learning.
 Our Team secured First rank in Round 1 and third rank in round 2 having 74% accuracy among all IIT's and IIM's participants.*
 
 # So in this hackathon, we used several approches,:-
