@@ -1,0 +1,11 @@
+feat_id,feat_name,model_feat_imp_train,feat_rank_train,feat_description
+10,toss_decision_01,0.3086254,10,average runs scored in the ground in last 15 games
+2,team_winp_last5,0.09042293,2,
+1,team_count_50runs_last15,0.0825346,1,
+8,team12_lighting_performance,0.081986144,8,
+5,ground_avg_runs_last15,0.08038333,5,
+7,Net_Wickets_by_bowlers_wrt_team12,0.079919845,7,
+3,team1only_avg_runs_last15,0.0755359,3,
+6,team_12only_avg_runs_last15,0.07431405,6,
+4,team1_winp_team2_last15,0.06698114,4,
+9,toss_winner_01,0.059296608,9,"Toss winner to numerical - 1 if team2 wins, else 0"
